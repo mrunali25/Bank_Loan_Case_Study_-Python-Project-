@@ -5,7 +5,3 @@ matplotlib
 seaborn
 sklearn
 gc
-data_preprocessing
-outlier_detection
-data_analysis
-visualization
