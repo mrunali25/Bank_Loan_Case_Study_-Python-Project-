@@ -1,4 +1,5 @@
 Bank Loan Case Study
+![image](https://github.com/mrunali25/Bank_Loan_Case_Study__Python/assets/69971933/87fc175c-ee9a-4872-b60a-8d03353ef58b)
 
 This project is a case study on bank loan applications. It includes data preprocessing, outlier detection, data analysis, and visualization using Python.
 
