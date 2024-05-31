@@ -1,4 +1,5 @@
 Bank Loan Case Study
+
 This project is a case study on bank loan applications. It includes data preprocessing, outlier detection, data analysis, and visualization using Python.
 
 Project Structure:
